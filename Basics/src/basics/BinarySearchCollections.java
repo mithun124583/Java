@@ -1,4 +1,7 @@
 package basics;
+// Java Program to Demonstrate Working of binarySearch()
+// method of Collections class
+// Importing required classes
 import java.util.List; 
 import java.util.ArrayList; 
 import java.util.Collections;
