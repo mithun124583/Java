@@ -1,6 +1,4 @@
-// Java Program to demonstrate working of binarySearch()
-// Method of Arrays class In a sorted array
-
+ package basics;
 // Importing required classes
 import java.util.Arrays;
 
