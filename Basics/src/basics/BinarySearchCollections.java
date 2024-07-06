@@ -7,8 +7,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class BinarySearchCollections {
-
+            //main driver method
 	public static void main(String[] args) {
+		// Creating an empty ArrayList of integer type
 		List<Integer> al = new ArrayList<Integer>();
 		
 		al.add(10);
